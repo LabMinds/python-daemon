@@ -8,13 +8,13 @@ Version strings conform to the `Semantic Versioning`_ specification,
 ..  _Semantic Versioning: https://semver.org/
 
 
-Version NEXT
-============
+Version 2.2.4.1
+================
 
-:Released: FUTURE
-:Maintainer: UNKNOWN <unknown@example.org>
+:Released: 2020-05-11
+:Maintainer: Richard Offer <richard@whitequeen.com>
 
-No changes.
+Merge PR to fix working on Python3.6
 
 
 Version 2.2.4
